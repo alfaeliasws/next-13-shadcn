@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.cdnfonts.com/css/kiye-sans');
+@import url('https://fonts.cdnfonts.com/css/noto-sans-nko-unjoined');
+
+.font-noto {
+    font-family: 'Noto Sans NKo Unjoined', sans-serif;
+}
